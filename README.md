@@ -9,7 +9,7 @@
 
 ---
 
-🎮 **All-in-one game development accelerator** for **Unity Engine**.  
+🎮🎮 **All-in-one game development accelerator** for **Unity Engine**.  
 Speed up build times, optimize asset imports, batch-process prefabs, automate lighting bakes, manage scene loading, profile memory usage, compress textures, generate code boilerplate, and streamline the editor workflow — all from a single dashboard.
 
 ---
