@@ -1,4 +1,4 @@
-# 🎮 Unity Dev Toolkit 2026 — Game Development Accelerator & Build Optimizer
+# 🎮 🎮Unity Dev Toolkit 2026 — Game Development Accelerator & Build Optimizer
 
 [![GitHub Stars](https://img.shields.io/github/stars/Alexantros341/Unity-Dev-Toolkit)](https://github.com/Alexantros341/Unity-Dev-Toolkit)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
